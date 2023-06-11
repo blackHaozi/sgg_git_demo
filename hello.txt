@@ -12,5 +12,5 @@ atguigu! hello git!
 atguigu! hello git!
 atguigu! hello git!
 atguigu! hello git!
-atguigu! hello git! main test
 atguigu! hello git!
+atguigu! hello git! hot-fix test
